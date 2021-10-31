@@ -1,0 +1,27 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaeldco/newsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaeldco/newsletter/issues"
+  },
+  "homepage": "https://github.com/Rafaeldco/newsletter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.12",
+    "nodemailer": "^6.7.0",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "pg": "^8.7.1"
+  }
+}
